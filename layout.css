@@ -1,0 +1,16 @@
+body{
+    image-resolution: 1080p;
+    width: 300px;
+    height: 200px;
+    background-color:lightpink;
+
+}
+h1{
+   color: black;
+   text-align :centre;
+}
+p{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     text-decoration-color: lime;
+}
