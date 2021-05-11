@@ -1,0 +1,113 @@
+body{
+    background-image: url(Images/whiteclassy.jpg);
+    background-color:white;
+
+
+}
+.about1 {
+    text-decoration: solid;
+    font-size: large;
+    font-weight: bolder;
+
+}
+.about2{
+
+
+        text-align:center;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 20px;
+        padding-left: 500px;
+        margin-left: 100px;
+        margin-top: 100px;
+        size: inherit;
+        margin: 50px;
+        padding-right: 20px;
+        
+        
+        
+        
+}
+
+.photograph{
+    margin-top: 100px;
+    float: left;
+
+
+}
+h1{
+    color: red;
+    
+}
+
+h2{
+    color: red;
+    text-align: center;
+    margin-top: 100px;
+
+
+}
+
+.capp{
+    font-size: large;
+    
+}
+
+ul {
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+}
+section{
+    width: 100%;
+    height: 95vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+nav{
+   display: flex;
+   justify-content: space-between;
+   background-color: rgb black;
+   align-items: center;
+  
+   height: 60px;padding: 0px 5%;
+   
+    
+}
+
+nav ul{
+    display: flex;
+}
+
+nav ul li{
+    font-family: cursive;
+    font-size: 1.1rem;
+    font-weight: bold;
+    
+   
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 8px 25px;
+    transition: all.5s ease;
+    background-color: black;
+}
+nav ul li a:hover{
+    cursor: pointer;
+    background-color: gold;
+    box-shadow: 0 0 10px pink;
+    
+    }
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color:black;
+        color: gold;
+        text-align: center;
+      }
+

@@ -1,0 +1,32 @@
+body{
+
+    font-size: x-large;
+    background-color: gainsboro;
+
+}
+
+nav ul{
+    display: flex;
+}
+
+nav ul li{
+    font-family: cursive;
+    font-size: 1.1rem;
+    font-weight: bold;
+    
+   
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 8px 25px;
+    transition: all.5s ease;
+    background-color: black;
+}
+nav ul li a:hover{
+    cursor: pointer;
+    background-color: gold;
+    box-shadow: 0 0 10px pink;
+    
+    }
+    
